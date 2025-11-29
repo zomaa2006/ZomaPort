@@ -259,6 +259,27 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/",
+  },  
+  {
+    name: "YOU,R",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "HTML",
+        color: "red-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JS",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: YOU,R,
+    source_code_link: "https://github.com/",
   },
 ];
 
