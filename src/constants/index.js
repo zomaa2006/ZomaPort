@@ -278,7 +278,7 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: YOU,R,
+    image: YOU-R,
     source_code_link: "https://github.com/",
   },
 ];
